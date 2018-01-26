@@ -1,14 +1,14 @@
 {
-    "name": "albertobravi/tropo-webapi-php-oop",
+    "name": "dottori-it/tropo-webapi-php-oop",
     "description": "A set of PHP classes for working with the Tropo WebAPI",
-    "homepage": "https://github.com/albertobravi/tropo-webapi-php-oop",
+    "homepage": "https://github.com/dottori-it/tropo-webapi-php-oop",
     "keywords": ["php", "sms", "ivr", "voip", "cloud", "tropo"],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Alberto Bravi",
-            "email": "alberto.bravi@gmail.com"
+            "name": "Dottori.it Dev Team",
+            "email": "dev@dottori.it"
         }
     ],
     "minimum-stability": "stable",
